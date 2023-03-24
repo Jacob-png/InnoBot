@@ -4,9 +4,16 @@ Multi functional bot developed by myself
 # Files:
 
 
-# .env :
+**.env :**
 Bot token
-# package and package lock.json :
+
+**package and package lock.json :**
 Packages used in the bot
-# discloud.config :
+
+**discloud.config :**
 Temporary file for 24/7 hosting
+
+# Folders:
+**src:***
+Main project folder
+
